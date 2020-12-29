@@ -21,7 +21,7 @@ body{
 .nav-wrapper{
   display:flex;
   justify-content: space-between;
-  padding:25px;
+  padding:2.5vh;
 }
 
 .left-side{
@@ -29,13 +29,13 @@ body{
 }
 
 .nav-wrapper > .left-side > div{
-  margin-right:20px;
+  margin-right:2vw;
   font-size: 0.9em;
   font-weight: 200;
 }
 
 .nav-link-wrapper{
-  height: 22px;
+  height: 2vh;
   border-bottom: 1px solid transparent;
   transition: border-bottom 0.5s;
 }
