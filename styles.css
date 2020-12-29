@@ -77,14 +77,14 @@ body{
 .profile-content-wrapper{
   display: flex;
   flex-direction: column;
-  padding:30px;
+  padding:3em;
   text-align: center;
   justify-content: center;
   align-items: center;
   font-size: 1.2em;
   height: 30vh;
   width: 50vw;
-  border-bottom: 5px solid black;
+  border-bottom: 5em solid black;
 }
 
 .whyPM {
